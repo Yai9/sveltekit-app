@@ -4,21 +4,66 @@
 		"name": "Caesar Beef",
 		"description": "Caesar bun, two rows of 100% beef, Emmentaler cheese, tomato, rocket, red onion, fried onion and Caesar sauce.",
 		"url": "https://www.mcdonalds.rs/wp-content/uploads/2017/07/McD_Caesar-Beef_500x500px-342x296.png",
-		"ingredients": []
+		"ingredients": [
+			"Celery",
+			"Crustaceans",
+			"Eggs",
+			"A fish",
+			"Gluten",
+			"Lupine",
+			"Milk",
+			"Shellfish",
+			"Mustard",
+			"Nuts",
+			"Peanuts",
+			"Sesame",
+			"Sulfur dioxide",
+			"Soy"
+		]
 	},
 	{
 		"id": 2,
 		"name": "Big Tasty Bacon",
 		"description": "Big Tasty Bacon consists of bun, bacon, Emmentaler cheese, 100% beef, tomato, frisee salad, onion, Big Tasty sauce.",
 		"url": "https://www.mcdonalds.rs/wp-content/uploads/2014/02/big-tasty-bacon-2-342x296.png",
-		"ingredients": []
+		"ingredients": [
+			"Celery",
+			"Crustaceans",
+			"Eggs",
+			"A fish",
+			"Gluten",
+			"Lupine",
+			"Milk",
+			"Shellfish",
+			"Mustard",
+			"Nuts",
+			"Peanuts",
+			"Sesame",
+			"Sulfur dioxide",
+			"Soy"
+		]
 	},
 	{
 		"id": 3,
 		"name": "Grand Double Cheese Jalapeno",
 		"description": "Grand Double Cheese Jalapeno consists of bun, bacon, Emmentaler cheese, 100% beef, tomato, frisee salad, onion, Big Tasty sauce.",
 		"url": "https://www.mcdonalds.rs/wp-content/uploads/2020/08/dupli-cheese-jalapeno-342x296.jpg",
-		"ingredients": []
+		"ingredients": [
+			"Celery",
+			"Crustaceans",
+			"Eggs",
+			"A fish",
+			"Gluten",
+			"Lupine",
+			"Milk",
+			"Shellfish",
+			"Mustard",
+			"Nuts",
+			"Peanuts",
+			"Sesame",
+			"Sulfur dioxide",
+			"Soy"
+		]
 	},
 	{
 		"id": 4,
