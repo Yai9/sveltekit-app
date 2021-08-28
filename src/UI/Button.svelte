@@ -1,5 +1,6 @@
 <script>
-	let primaryClass = 'border-red-900 px-8 py-4 bg-red-900 text-white rounded-md shadow-md pointer';
+	let primaryClass =
+		'border-red-900 bg-gradient-to-r from-red-500 via-red-700 to-red-900  px-8 py-4 bg-red-900 text-white rounded-md shadow-md pointer';
 
 	export let type = '';
 	export let href = '';

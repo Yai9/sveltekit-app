@@ -1,8 +1,4 @@
-<script>
-	let value = '';
-</script>
-
-<main class="mt-16">
+<main class="mt-20">
 	<div class="w-1/2 text-center mx-auto my-auto">
 		<h1 class="text-4xl">About Us</h1>
 		<img src="https://www.mcdonalds.rs/wp-content/uploads/2021/08/Onama.jpg" alt="about-us" />

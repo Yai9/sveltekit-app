@@ -11,7 +11,7 @@
 
 <article class="bg-white m-4 mx-16  py-4 rounded-md border-2 ">
 	<div>
-		<h1 class="text-2xl text-center text-red-900">{name}</h1>
+		<h1 class="text-3xl text-center text-red-900">{name}</h1>
 	</div>
 	<div class="justify-center w-full">
 		<img class="mx-auto " src={url} alt={name} />
